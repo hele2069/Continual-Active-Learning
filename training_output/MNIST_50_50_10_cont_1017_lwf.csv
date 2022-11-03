@@ -1,0 +1,11 @@
+,model,round,time,accuracy,size,dataset,strategy,num_init_lb,num_query,num_round,train
+0,EntropySampling,1,7.249670028686523,0.6716,550,MNIST,EntropySampling,50,50,10,Continual
+1,EntropySampling,2,7.6215643882751465,0.5898,550,MNIST,EntropySampling,50,50,10,Continual
+2,EntropySampling,3,7.455314874649048,0.5942,550,MNIST,EntropySampling,50,50,10,Continual
+3,EntropySampling,4,7.699815511703491,0.5089,550,MNIST,EntropySampling,50,50,10,Continual
+4,EntropySampling,5,7.468784809112549,0.5952,550,MNIST,EntropySampling,50,50,10,Continual
+5,EntropySampling,6,7.648727178573608,0.5791,550,MNIST,EntropySampling,50,50,10,Continual
+6,EntropySampling,7,7.488609313964844,0.7009,550,MNIST,EntropySampling,50,50,10,Continual
+7,EntropySampling,8,7.425672292709351,0.7311,550,MNIST,EntropySampling,50,50,10,Continual
+8,EntropySampling,9,7.506885051727295,0.6829,550,MNIST,EntropySampling,50,50,10,Continual
+9,EntropySampling,10,7.347452878952026,0.6766,550,MNIST,EntropySampling,50,50,10,Continual
